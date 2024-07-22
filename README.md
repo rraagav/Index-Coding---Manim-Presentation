@@ -15,11 +15,12 @@ The research paper "Index Coding with Side Information" delves into the problem 
 # Project Structure
 
 index_coding_with_side_information/
-├── Index_Coding_With_Side_Information.pdf
 
 ├── IndexCodingSideInfo.pptx
 
 ├── IndexCodingwithManim.py
+
+├── Index_Coding_With_Side_Information.pdf
 
 ├── README.md
 
