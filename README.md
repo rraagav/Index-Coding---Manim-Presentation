@@ -19,3 +19,11 @@ Contributing
 The research paper "Index Coding with Side Information" delves into the problem of index coding, a communication method where the sender transmits messages to receivers with prior side information. This project aims to clarify the complex concepts presented in the paper through visual animations and a comprehensive video explanation.
 
 # Project Structure
+index_coding_with_side_information/
+├── Videos/
+├── Index_Coding_With_Side_Information.pdf
+├── IndexCodingSideInfo.pptx
+├── IndexCodingwithManim.py
+├── InfoComm Project - Index Coding and Side Info.mp4
+├── README.md
+
