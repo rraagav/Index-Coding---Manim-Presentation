@@ -30,3 +30,4 @@ index_coding_with_side_information/
 
 # Video Explanation
 In our final video file, you can see our recording of the paper, all manim animations with their corresponding explanations.
+https://drive.google.com/file/d/1fvn87AkIrraBgq8eYxPGG5ZZIrC2areG/view?usp=sharing
