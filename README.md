@@ -15,3 +15,7 @@ Video Explanation
 
 Contributing
 
+# Introduction
+The research paper "Index Coding with Side Information" delves into the problem of index coding, a communication method where the sender transmits messages to receivers with prior side information. This project aims to clarify the complex concepts presented in the paper through visual animations and a comprehensive video explanation.
+
+# Project Structure
