@@ -7,13 +7,7 @@ Introduction
 
 Project Structure
 
-Installation
-
-Usage
-
 Video Explanation
-
-Contributing
 
 # Introduction
 The research paper "Index Coding with Side Information" delves into the problem of index coding, a communication method where the sender transmits messages to receivers with prior side information. This project aims to clarify the complex concepts presented in the paper through visual animations and a comprehensive video explanation.
@@ -34,3 +28,5 @@ index_coding_with_side_information/
 
 ├── README.md
 
+# Video Explanation
+In our final video file, you can see our recording of the paper, all manim animations with their corresponding explanations.
